@@ -1,32 +1,32 @@
 **E-Commerce Project Readme**
 
-**Project Overview:**
-This e-commerce project aims to create a comprehensive database schema and populate it with sample data relevant to an online shopping platform. The schema includes tables for user information, login credentials, product categories, customer profiles, products, and shopping carts. Sample data has been inserted to demonstrate the functionality of the schema.
+**Project Synopsis:**
+The aim of this e-commerce endeavor is to design a comprehensive database schema and populate it with relevant sample data pertinent to an online retail platform. The schema encompasses tables for user data, login credentials, product categories, customer profiles, products, and shopping carts. Sample data has been incorporated to illustrate the functionality of the schema.
 
-**Files Included:**
-1. **Database Creation Script:** The SQL script (`create_tables.sql`) contains commands to create the database tables with their respective fields and primary keys.
-2. **Data Insertion Script:** The SQL script (`insert_data.sql`) contains commands to insert sample data into the tables created by the database creation script.
-3. **Readme File:** This file (`README.md`) provides an overview of the project, instructions for running the scripts, and explanations of the database schema and sample data.
+**Included Files:**
+1. **Database Creation Script:** The SQL script (`create_tables.sql`) comprises commands for generating the database tables along with their respective fields and primary keys.
+2. **Data Insertion Script:** The SQL script (`insert_data.sql`) entails commands for injecting sample data into the tables established by the database creation script.
+3. **Readme File:** This document (`README.md`) furnishes an overview of the project, guidelines for executing the scripts, and elucidations of the database schema and sample data.
 
-**Instructions:**
-1. **Database Creation:** Run the SQL script `create_tables.sql` to create the necessary tables in your preferred SQL database management system.
-2. **Data Insertion:** Run the SQL script `insert_data.sql` to insert sample data into the created tables.
-3. **Database Usage:** Once the tables are created and populated with sample data, you can use the database for testing and development purposes.
+**Guidelines:**
+1. **Database Establishment:** Execute the SQL script `create_tables.sql` to establish the requisite tables in your chosen SQL database management system.
+2. **Data Injection:** Execute the SQL script `insert_data.sql` to inject sample data into the established tables.
+3. **Database Utilization:** Following the creation and population of tables with sample data, the database is available for testing and developmental purposes.
 
-**Database Schema:**
-1. **user_upload:** Contains user IDs.
-2. **Login:** Stores user login information.
-3. **category:** Holds product categories and descriptions.
-4. **customer_profile:** Stores customer information and order details.
-5. **product:** Contains product details such as category, ID, name, color, brand, and price.
-6. **cart:** Tracks the items added to the shopping cart.
-7. **headphones, smartwatches, computer_accessories, Speaker, camera_accessories, Laptops:** Additional tables specific to product categories, each containing product details.
+**Database Structure:**
+1. **user_upload:** Encompasses user IDs.
+2. **Login:** Stores user login particulars.
+3. **category:** Houses product categories alongside descriptions.
+4. **customer_profile:** Preserves customer particulars and order specifics.
+5. **product:** Comprises product particulars like category, ID, name, color, brand, and price.
+6. **cart:** Monitors items added to the shopping cart.
+7. **headphones, smartwatches, computer_accessories, Speaker, camera_accessories, Laptops:** Supplementary tables specific to product categories, each harboring product details.
 
 **Sample Data:**
-The sample data provided in the `insert_data.sql` script includes user IDs, login credentials, product categories, product details, and customer profiles. It demonstrates how data can be inserted into the database tables to represent users, products, and transactions in an e-commerce platform.
+The sample data embedded in the `insert_data.sql` script comprises user IDs, login credentials, product categories, product particulars, and customer profiles. It serves as a demonstration of how data can be inserted into the database tables to depict users, products, and transactions within an e-commerce platform.
 
-**Note:** Modify the sample data and schema as needed to suit your specific requirements and use case.
+**Note:** Adapt the sample data and schema as necessary to align with your particular requirements and usage scenario.
 
-**Author:** SHREY GOYAL (shreygoyal73@gmail.com)
+**Author:** Omkar Rasal (omrasal2993@gmail.com)
 
 **Version:** 1.0
