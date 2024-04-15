@@ -27,6 +27,6 @@ The sample data embedded in the `insert_data.sql` script comprises user IDs, log
 
 **Note:** Adapt the sample data and schema as necessary to align with your particular requirements and usage scenario.
 
-**Author:** Omkar Rasal (omrasal2993@gmail.com)
+**Author:** Omkar Rasal (omrasal2993@gmail.com) and Shrey Goyal (shreygoyal173@gmail.com)
 
 **Version:** 1.0
